@@ -1,3 +1,5 @@
 /node_modules
 /bower_components
 /dist
+/examples/enki/.idea
+/examples/enki/node_modules
